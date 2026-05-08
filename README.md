@@ -28,3 +28,8 @@ harmon-foods-forecasting/
 ├── results/
 └── README.md
 ```
+
+
+## Trend Visualization
+
+![Trend](results/tendance.png)
