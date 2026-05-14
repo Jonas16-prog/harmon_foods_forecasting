@@ -1,7 +1,5 @@
 # Harmon Foods Sales Forecasting
 
-# Harmon Foods Sales Forecasting
-
 ## Overview
 
 This project analyzes monthly cereal shipment data from **Harmon Foods, Inc.** in order to understand sales behavior and build predictive models for future shipments.
